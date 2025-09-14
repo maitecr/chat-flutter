@@ -10,6 +10,6 @@ class ChatUser {
     required this.username,
     required this.name,
     required this.email
-  })
+  });
 
 }
